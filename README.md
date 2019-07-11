@@ -36,4 +36,3 @@ $hadoop dfs -getmerge /user/userID/output ~/coolProjectOutput/
 
 $cat ~/coolProjectOutput/output
 
-http://www.andrew.cmu.edu/course/95-702/homework/current/project5.txt
